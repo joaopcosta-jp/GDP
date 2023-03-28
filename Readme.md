@@ -1,0 +1,1 @@
+Projeto para auxiliar caixa na anotação e impressão de pedidos de um estabelecimento.
